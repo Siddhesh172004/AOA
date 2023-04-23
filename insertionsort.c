@@ -16,7 +16,7 @@ int main()
         scanf("%d", &a[i]);
     }
 
-    for (i = 0;i < n;i++) {
+    for (i = 1;i < n;i++) {
         key = a[i];
         j = i - 1;
 
